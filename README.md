@@ -35,7 +35,7 @@ This Project started as a guided tutorial covering the core KPIs visualised belo
 
 
 **How to View**<br>
-  **Interactive version:** open the Tableau Public link above.<br>
+  **Interactive version:** open the Tableau Public link above or access https://bellachhab-ctrl.github.io/EV-Data-Analysis-/.<br>
   **Offline/editable version:** download EV Data Analysis.twbx and open it in tableau Public Desktop (free) or Tableau Desktop.
 
   

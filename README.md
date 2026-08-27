@@ -6,6 +6,12 @@ Live interactive dashboard:<br>
 https://public.tableau.com/views/EVDATAAnalysis_17877781333270/Dashboard?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
+or 
+
+
+https://bellachhab-ctrl.github.io/EV-Data-Analysis-/
+
+
 <img width="1341" height="762" alt="image" src="https://github.com/user-attachments/assets/6eaeb302-d612-473f-b370-6f7ef419894e" />
 
 
